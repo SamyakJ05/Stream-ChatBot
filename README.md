@@ -1,5 +1,4 @@
-ChatBot
--Stream response from LLM
--LangChain to interact with LLm
--Streamlit front-end
--Will remember the chat History
+Python ChatBot
+-Ollama
+    Helps run open source LLMs locally
+    Llama 3 with 8B parameters
